@@ -109,7 +109,7 @@ In Phase 1, evaluation is trivial: did the model say "positive" when the label i
 | Adapter framework | PEFT (LoRA, quantized training) |
 | Training loop | TRL SFTTrainer |
 | Evaluation | DeepEval (GEval, AnswerRelevancy), scikit-learn, ROUGE |
-| Models | Qwen2.5-1.5B-Instruct (text), Qwen2-VL (vision — upcoming) |
+| Models | Qwen3-4B-Instruct (text), Qwen3-VL (vision) |
 | Data | HuggingFace Datasets |
 | Compute | Google Colab (H100/A100) |
 
