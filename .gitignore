@@ -14,6 +14,7 @@ outputs/
 .env
 
 # File
-notebooks/00_environment_setup.ipynb
-notebooks/01_financial_sentiment.ipynb
-notebooks/02_medical_chat.ipynb
+dry-tests/
+notebooks/unsloth_compiled_cache/
+.python-version
+notebooks/Qwen3-4B_Instruct_Financial_sentiment_fine-tuned.ipynb
